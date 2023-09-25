@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-> [!WARN]
+> [!WARNING]
 > 
 > **For now, I'm preparing for the National Olympiad in Informatics in Provinces 2023.** I'll have limited online availability so I can focus on my studies.
 > 
